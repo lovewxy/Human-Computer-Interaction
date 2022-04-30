@@ -24,7 +24,7 @@
 ```
 
 ## Environment
-* **Operating System**: Window 10
+* **Operating System**: Windows 10
 * **IDE**: Pycharm 2021.3.1
 * **Programming Language**: Python
 
