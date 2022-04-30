@@ -37,13 +37,13 @@
   <img src="img/sleep.png" alt="Screen Shot 2021-05-13 at 14.20.47" style="zoom: 50%;" />
 </center>
 
-* Click the button **"Click for some tips"** to show the help list
+* Click the button **"Click for some tips"** to show the help list.
 
 <center>
   <img src="img/user_1.png" alt="Screen Shot 2021-05-13 at 14.20.47" style="zoom: 50%;" />
 </center>
 
-* Click the button **"Return to chat with me"** to show the help list
+* Click the button **"Return to chat with me"** to the home page.
 
 <center>
   <img src="img/back_speech.png" alt="Screen Shot 2021-05-13 at 14.20.47" style="zoom: 50%;" />
